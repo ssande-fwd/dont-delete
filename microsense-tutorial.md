@@ -33,5 +33,3 @@ and use the associated sensor blocks.
 
 Click next to complete the tutorial and edit the sample program.
 Or download it to your micro:bit right away. It will work as is.
-MicroSense will not work if your micro:bit remains connected to MakeCode,
-so disconnect it or close the window before going back!
